@@ -62,6 +62,20 @@ const qBank = [
       correct: "frontend",
       questionId: "183452"
     },
+    {
+      question:
+        'what is ui?',
+      answers: ["front end", "backend", "db", "ux"],
+      correct: "frontend",
+      questionId: "183452"
+    },
+    {
+      question:
+        'what is ui?',
+      answers: ["front end", "backend", "db", "ux"],
+      correct: "frontend",
+      questionId: "183452"
+    },
    
   ];
 
